@@ -1,4 +1,4 @@
-# Programmer: Javan Graber
+# Programmer: Javan Graber 
 # Date: 3/24/2026
 # Program #2: Random Number File Writer
 # Write a program that writes a series of random numbers (up to 1000) to a file.
