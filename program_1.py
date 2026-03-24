@@ -1,4 +1,4 @@
-# Programmer: Javan Graber
+# Programmer: Javan Graber 
 # Date: 3/24/2026
 # Program #1: Item Counter
 # Assume a file containing a series of names (as strings) is named names.txt
